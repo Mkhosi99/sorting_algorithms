@@ -1,8 +1,6 @@
 0x1B. C - Sorting algorithms & Big O
 ====================================
 
-- By Dev Nderitu && Sagebeme
-- Weight: 2
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
 
@@ -102,7 +100,6 @@ Tasks
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://alx-intranet.hbtn.io/rltoken/awhP8BhtkGi-lwmMc2-KAw "Bubble sort") algorithm
 
@@ -174,13 +171,11 @@ alex@/tmp/sort$
 -   GitHub repository: `sorting_algorithms`
 -   File: `0-bubble_sort.c, 0-O`
 
- Done? Help Check your code Ask for a new correction QA Review
 
 ### 1\. Insertion sort
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
 
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://alx-intranet.hbtn.io/rltoken/GocxRKbPdsmERXeOHMCO2w "Insertion sort") algorithm
 
@@ -288,13 +283,11 @@ alex@/tmp/sort$
 -   GitHub repository: `sorting_algorithms`
 -   File: `1-insertion_sort_list.c, 1-O`
 
- Done? Help Check your code Ask for a new correction QA Review
 
 ### 2\. Selection sort
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
 
 Write a function that sorts an array of integers in ascending order using the [Selection sort](https://alx-intranet.hbtn.io/rltoken/SEbg0fBEraioQcl-igvUSw "Selection sort") algorithm
 
@@ -353,13 +346,11 @@ alex@/tmp/sort$
 -   GitHub repository: `sorting_algorithms`
 -   File: `2-selection_sort.c, 2-O`
 
- Done? Help Check your code Ask for a new correction QA Review
 
 ### 3\. Quick sort
 
 mandatory
 
-Score: 100.00% (Checks completed: 100.00%)
 
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://alx-intranet.hbtn.io/rltoken/_pBTrH0Xyo4BRmQn4CtnMg "Quick sort") algorithm
 
