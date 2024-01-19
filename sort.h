@@ -10,6 +10,9 @@
 
 /**
  * enum bool - Indicates the enumeration of boolean values
+ * @false: This sets the value of the first enumeration constant false to 0
+ * @true: Since enum constants are assigned values sequentially by default,
+ *        true gets the value 1
 */
 
 typedef enum bool
